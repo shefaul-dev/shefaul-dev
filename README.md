@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shefaul Islam 👋
 
-<!--
-**shefaul-dev/shefaul-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Robotics & AI Enthusiast
+- Computer Vision Developer
+- Founder of RoboHobby
+- Interested in Machine Learning and Embedded Systems
 
-Here are some ideas to get you started:
+## Current Interests
+- Robotics
+- Computer Vision
+- Deep Learning
+- Intelligent Automation
+- IoT Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python
+- OpenCV
+- YOLOv8
+- Raspberry Pi
+- Arduino
+
+## Contact
+- LinkedIn: www.linkedin.com/in/shefaul-islam7
+- Email:    shefaulislam79@gmail.com
