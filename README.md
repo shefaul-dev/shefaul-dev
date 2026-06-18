@@ -1,25 +1,17 @@
-# Hi, I'm Shefaul Islam 👋
+## 💫 About Me
 
-## About Me
-- Robotics & AI Enthusiast
-- Computer Vision Developer
-- Founder of RoboHobby
-- Interested in Machine Learning and Embedded Systems
+🚀 Computer Vision & Robotics Enthusiast
 
-## Current Interests
-- Robotics
-- Computer Vision
-- Deep Learning
-- Intelligent Automation
-- IoT Systems
+🐍 Python | 📷 OpenCV | 🔥 YOLO | ⚙️ raspberry pi
 
-## Technologies
-- Python
-- OpenCV
-- YOLOv8
-- Raspberry Pi
-- Arduino
+🔭 Contributing to AI-based Bird Detection and Repellent Research at :contentReference[oaicite:0]{index=0}
 
-## Contact
-- LinkedIn: www.linkedin.com/in/shefaul-islam7
-- Email:    shefaulislam79@gmail.com
+🏗️ Founder of Robo Hobby
+
+📚 Exploring Artificial Intelligence, Computer Vision and Intelligent Automation
+
+🛠️ Developing practical solutions for real-world challenges
+
+🎯 Aspiring AI & Robotics
+
+🧠 Always learning, building and experimenting
